@@ -1,0 +1,25 @@
+
+  #box {
+      height:840px;
+      width:50%;
+      border: solid 1px white;
+      margin-left:400px;
+  }
+  .button { 
+    box-sizing: border-box;
+    float: left;
+    width: 200px; 
+    height: 200px; 
+    margin: 5px;
+    padding: 0;  
+  }
+div { border: 1px solid #404040; }
+.darkMode {
+    background-color:black;
+}
+#button {
+    border: 1px solid gray;
+    padding: 10px;
+    font-family: Helvetica;
+    color: gray;
+  }
